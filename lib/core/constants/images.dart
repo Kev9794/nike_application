@@ -1,0 +1,51 @@
+part of 'package:nike_application/core.dart';
+
+class AppImages {
+  static const String nikeShoes1 = 'assets/images/nikeShoes1.png';
+  static const String nikeShoes2 = 'assets/images/nikeShoes2.png';
+  static const String nikeShoes3 = 'assets/images/nikeShoes3.png';
+  static const String nikeShadow = 'assets/images/nikeShadow.png';
+  static const String decor1 = 'assets/images/decor1.png';
+  static const String decor2 = 'assets/images/decor2.png';
+  static const String decor3 = 'assets/images/decor3.png';
+  static const String decor4 = 'assets/images/decor4.png';
+  static const String decor5 = 'assets/images/decor5.png';
+  static const String decor6 = 'assets/images/decor6.png';
+  static const String shoesShadow = 'assets/images/shoesShadow.png';
+  static const String circleJordan = 'assets/images/circleJordan.png';
+  static const String bestSeller1 = 'assets/images/bestSeller1.png';
+  static const String bestSeller2 = 'assets/images/bestSeller2.png';
+  static const String newArrival = 'assets/images/newArrival.png';
+  static const String explorePage = 'assets/images/explorePage.png';
+  static const String detailShoes = 'assets/images/detailShoes.png';
+  static const String cartProduct1 = 'assets/images/cartProduct1.png';
+  static const String cartProduct2 = 'assets/images/cartProduct2.png';
+  static const String cartProduct3 = 'assets/images/cartProduct3.png';
+  static const String personEdit = 'assets/images/personEdit.png';
+  static const String personProfile = 'assets/images/personProfile.png';
+  static const String profilePhone = 'assets/images/profilePhone.png';
+  static const String map = 'assets/images/map.png';
+  static const String back = 'assets/icons/back.png';
+  static const String cart = 'assets/icons/cart.png';
+  static const String contact = 'assets/icons/contact.png';
+  static const String detailFavorite = 'assets/icons/detailFavorite.png';
+  static const String mail = 'assets/icons/mail.png';
+  static const String filter = 'assets/icons/filter.png';
+  static const String mandiri = 'assets/icons/mandiri.png';
+  static const String drawerPerson = 'assets/icons/drawerPerson.png';
+  static const String cartDrawer = 'assets/icons/cartDrawer.png';
+  static const String favDrawer = 'assets/icons/favDrawer.png';
+  static const String notificationDrawer =
+      'assets/icons/notificationDrawer.png';
+  static const String orderDrawer = 'assets/icons/orderDrawer.png';
+  static const String profileDrawer = 'assets/icons/profileMenu.png';
+  static const String settingDrawer = 'assets/icons/settingDrawer.png';
+  static const String signOutDrawer = 'assets/icons/signOutDrawer.png';
+  static const String paymentSuccess = 'assets/icons/paymentSuccess.png';
+  static const String phone = 'assets/icons/phone.png';
+  static const String plus = 'assets/icons/plus.png';
+  static const String search = 'assets/icons/search.png';
+  static const String google = 'assets/icons/google.png';
+  static const String drawer = 'assets/icons/drawer.png';
+  static const String cartBottom = 'assets/icons/cartBottom.png';
+}
